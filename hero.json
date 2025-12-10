@@ -1,0 +1,14 @@
+{
+    "name": "Aragon",
+    "level": 10,
+    "is_alive": true,
+    "attributes": {
+        "strength": 15,
+        "magic": 5
+    },
+    "inventory": [
+        "Sword",
+        "Potion",
+        "Map"
+    ]
+}

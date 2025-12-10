@@ -1,0 +1,14 @@
+[
+    {
+        "name": "test",
+        "score": "123"
+    },
+    {
+        "name": "LM",
+        "score": "100"
+    },
+    {
+        "name": "KDA",
+        "score": "50"
+    }
+]
